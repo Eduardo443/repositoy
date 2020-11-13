@@ -2,7 +2,7 @@
 
 # the ideia is to replicate the activity painel of github, but for the twitter activity
 
-<img src="./images/painel">
+<img src="./images/painel.png">
 
 - Will be considerate:
     * number of Posts
